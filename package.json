@@ -1,0 +1,24 @@
+{
+  "name": "csp-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsuz/csp-node.git"
+  },
+  "keywords": [],
+  "author": "Sujit M <smahavarkar@gmail.com> (https://mahavarkar.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamsuz/csp-node/issues"
+  },
+  "homepage": "https://github.com/iamsuz/csp-node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.2"
+  }
+}
